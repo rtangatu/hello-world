@@ -1,2 +1,3 @@
 # hello-world
-get started!
+getting started!
+lets learn blockchain.
